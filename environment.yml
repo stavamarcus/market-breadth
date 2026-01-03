@@ -1,0 +1,5 @@
+name: market-breadth
+channels:
+  - defaults
+dependencies:
+  - python=3.11
