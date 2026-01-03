@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda environments
+.env/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Project runtime data (never commit)
+data/prices/
+data/snapshots/
+output/
+logs/
